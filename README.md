@@ -62,4 +62,25 @@ Functionality:
 Purpose:
 This task demonstrates how to import and use standard modules, particularly for scientific computations, while reinforcing concepts like user input, type conversion, and method calls.
 
+#Assignment 4 : 
+#Task 1: Read a File and Handle Errors
+ This Python script reads content from a file named sample.txt and gracefully handles the scenario when the file does not exist.
+Functionality:
+- Attempts to open and read sample.txt.
+- Prints each line of the file if it exists.
+- Uses exception handling to catch and display an error message if the file is missing.
+Purpose:
+Demonstrates basic file reading operations and emphasizes the importance of error handling in Python using try-except blocks.
+
+#Task 2: Write and Append Data to a File
+ This Python program allows the user to interact with a file named output.txt by writing new input, appending additional content, and then displaying the final result.
+ Functionality:
+- Takes user input and writes it to output.txt.
+- Appends more data to the same file.
+- Reads and prints the entire content of output.txt after modifications.
+Purpose:
+Explores file manipulation through Python’s open() function in write ('w'), append ('a'), and read ('r') modes. It also reinforces understanding of user input, file I/O, and output formatting.
+
+
+
 

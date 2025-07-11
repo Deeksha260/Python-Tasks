@@ -1,6 +1,6 @@
 # Python-Tasks
-#Assignment 1: 
-#Task 1 : basic arthmetic program :
+# Assignment 1: 
+# Task 1 : basic arthmetic program :
  This Python script performs four basic arithmetic operations — addition, subtraction, multiplication, and division on two numbers entered by the user.
 Functionality:
 Prompts the user to input two numbers.
@@ -13,7 +13,7 @@ Calculates:
 Purpose:
 This task demonstrates the use of user input, simple calculations, conditional logic, and formatted output in Python. It’s designed to reinforce core programming concepts with real-time feedback.
 
-#Task 2 : user greeting program :
+# Task 2 : user greeting program :
  This Python script prompts the user to input their first and last names, combines them into a full name, and then displays a personalized welcome message.
 Functionality:
 - Accepts user input for first and last names.
@@ -22,8 +22,8 @@ Functionality:
 Purpose:
 Designed to introduce string manipulation, user input handling, and basic output formatting in Python—ideal for beginners building interactive console programs.
 
-#Assignment 2: 
-#Task 1 : Even or Odd Number Checker
+# Assignment 2: 
+# Task 1 : Even or Odd Number Checker
  This Python script determines whether a given integer input by the user is even or odd.
 Functionality:
 - Accepts an integer from the user.
@@ -32,7 +32,7 @@ Functionality:
 Purpose:
 Designed to reinforce basic input handling, conditional logic, and the concept of modulo operations in Python.
 
-#Task 2 : Sum of Integers from 1 to 50
+# Task 2 : Sum of Integers from 1 to 50
  This Python program calculates the sum of all integers from 1 to 50 using a for loop.
 Functionality:
 - Iterates through numbers from 1 to 50.
@@ -41,8 +41,8 @@ Functionality:
 Purpose:
 Helps understand loops, range-based iteration, and the use of accumulators—core principles in control flow and logic structuring
 
-#Assignment 3: 
-#Task 1 : Calculate Factorial Using a Function
+# Assignment 3: 
+# Task 1 : Calculate Factorial Using a Function
  This Python script defines and uses a function to compute the factorial of a given number.
  Functionality:
 - Defines a function called factorial() that calculates the factorial using a loop or recursion.
@@ -51,7 +51,7 @@ Helps understand loops, range-based iteration, and the use of accumulators—cor
 Purpose:
 Introduces the concept of functions, loops/recursion, and modular code design. It’s a fundamental building block for tackling mathematical problems in Python efficiently.
 
-#Task 2 :  Task 2: Mathematical Operations Using the math Module
+# Task 2 :  Task 2: Mathematical Operations Using the math Module
 This script uses Python’s built-in math module to perform multiple calculations on a user-provided number.
 Functionality:
 - Prompts the user for a numeric input.
@@ -62,8 +62,8 @@ Functionality:
 Purpose:
 This task demonstrates how to import and use standard modules, particularly for scientific computations, while reinforcing concepts like user input, type conversion, and method calls.
 
-#Assignment 4 : 
-#Task 1: Read a File and Handle Errors
+# Assignment 4 : 
+# Task 1: Read a File and Handle Errors
  This Python script reads content from a file named sample.txt and gracefully handles the scenario when the file does not exist.
 Functionality:
 - Attempts to open and read sample.txt.
@@ -72,7 +72,7 @@ Functionality:
 Purpose:
 Demonstrates basic file reading operations and emphasizes the importance of error handling in Python using try-except blocks.
 
-#Task 2: Write and Append Data to a File
+# Task 2: Write and Append Data to a File
  This Python program allows the user to interact with a file named output.txt by writing new input, appending additional content, and then displaying the final result.
  Functionality:
 - Takes user input and writes it to output.txt.
@@ -80,6 +80,26 @@ Demonstrates basic file reading operations and emphasizes the importance of erro
 - Reads and prints the entire content of output.txt after modifications.
 Purpose:
 Explores file manipulation through Python’s open() function in write ('w'), append ('a'), and read ('r') modes. It also reinforces understanding of user input, file I/O, and output formatting.
+
+# Assignment 5 : 
+# Task 1: Student Marks Dictionary
+ This Python script allows users to query student marks from a predefined dictionary.
+ Functionality:
+- Creates a dictionary where student names are keys and their marks are values.
+- Prompts the user to enter a student’s name.
+- Displays the student’s marks if found, or a custom message if the name is not in the dictionary.
+Purpose:
+This task introduces dictionary data structures, key-based lookup, and conditional handling for missing entries—essential concepts for real-world data mapping and retrieval.
+
+# Task 2: List Slicing and Reversing
+This Python script demonstrates list slicing and reversing techniques using a list of numbers from 1 to 10.
+Functionality:
+- Creates a list of integers from 1 to 10.
+- Slices the first five elements of the list.
+- Reverses the sliced sublist.
+- Prints both the original slice and the reversed version.
+- Purpose:
+Designed to enhance understanding of list indexing, slicing, and reversal logic—a stepping stone to mastering sequence manipulation in Python.
 
 
 

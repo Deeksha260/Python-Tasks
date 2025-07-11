@@ -1,5 +1,5 @@
 # Python-Tasks
-#Tasks Python scripts
+#Task 1 Python script
 This Python script performs four basic arithmetic operations — addition, subtraction, multiplication, and division on two numbers entered by the user.
 Functionality:
 Prompts the user to input two numbers.

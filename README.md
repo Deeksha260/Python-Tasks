@@ -41,4 +41,25 @@ Functionality:
 Purpose:
 Helps understand loops, range-based iteration, and the use of accumulators—core principles in control flow and logic structuring
 
- 
+#Assignment 3: 
+#Task 1 : Calculate Factorial Using a Function
+ This Python script defines and uses a function to compute the factorial of a given number.
+ Functionality:
+- Defines a function called factorial() that calculates the factorial using a loop or recursion.
+- The function accepts one integer as input and returns its factorial.
+- Demonstrates usage by calling the function with a sample value and printing the result.
+Purpose:
+Introduces the concept of functions, loops/recursion, and modular code design. It’s a fundamental building block for tackling mathematical problems in Python efficiently.
+
+#Task 2 :  Task 2: Mathematical Operations Using the math Module
+This script uses Python’s built-in math module to perform multiple calculations on a user-provided number.
+Functionality:
+- Prompts the user for a numeric input.
+- Uses math.sqrt() to compute the square root.
+- Uses math.log() to calculate the natural logarithm.
+- Uses math.sin() to evaluate the sine of the number (in radians).
+- Displays all calculated results with informative labels.
+Purpose:
+This task demonstrates how to import and use standard modules, particularly for scientific computations, while reinforcing concepts like user input, type conversion, and method calls.
+
+
